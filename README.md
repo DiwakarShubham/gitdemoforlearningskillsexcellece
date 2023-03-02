@@ -1,1 +1,1 @@
-# gitdemoforlearningskillsexcellece
+# gitdemoforlearningskillsexcellence
